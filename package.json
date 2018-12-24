@@ -20,7 +20,6 @@
     "build": "webpack --mode=production"
   },
   "dependencies": {
-    "axios": "^0.18.0",
-    "eslint": "^5.11.0"
+    "axios": "^0.18.0"
   }
 }
